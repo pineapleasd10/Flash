@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e24db86-92e8-4f79-afa7-dab2d79fe4a1" name="Default" comment="Test Coomit">
+    <list default="true" id="7e24db86-92e8-4f79-afa7-dab2d79fe4a1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/net/ukr/pineappleasd10/FirstTest.java" afterPath="$PROJECT_DIR$/src/test/java/net/ukr/pineappleasd10/FirstTest.java" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/net/ukr/pineappleasd10/Tedst.class" afterPath="$PROJECT_DIR$/target/test-classes/net/ukr/pineappleasd10/Tedst.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,7 +18,7 @@
       <file leaf-file-name="FirstTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/net/ukr/pineappleasd10/FirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="-51">
               <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -69,7 +67,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="799" />
     <option name="y" value="324" />
     <option name="width" value="1074" />
@@ -372,6 +370,14 @@
       <option name="presentableId" value="Default" />
       <updated>1519371626495</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test Coomit">
+      <created>1525790280549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525790280549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -407,7 +413,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="799" y="324" width="1074" height="639" extended-state="0" />
+    <frame x="799" y="324" width="1074" height="639" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -906,7 +912,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/net/ukr/pineappleasd10/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="-51">
           <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
