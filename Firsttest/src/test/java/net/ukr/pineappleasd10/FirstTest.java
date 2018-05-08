@@ -53,7 +53,7 @@ public class FirstTest {
         } catch (Error e) {
             System.out.println("Cannot close browser ");
             Assert.fail();
-            return;
+
         }
     }
 
@@ -103,7 +103,7 @@ public class FirstTest {
         } catch (org.openqa.selenium.NoSuchElementException e) {
             System.out.println("Login Failed " + e.getMessage());
             Assert.fail();
-            return;
+
         }
     }
 }
@@ -111,5 +111,8 @@ public class FirstTest {
 
 
 class Tedst{
-    
+    public static void main(String[] args) {
+        System.out.println("Test");
+    }
+
 }
